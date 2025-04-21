@@ -25,10 +25,14 @@
 > 🚀 [デモはこちら](https://muratter93.github.io/city_chase/)  
 
 
-### 学習
-- 🐍 Python / Django（基礎構文・GUI・Webアプリ開発）
-- ☕ Java（基礎構文・クラス設計）
-- 🌐 JavaScript（基礎構文・ブラウザアプリ制作）
-- 🐧 Linux（CLI操作）
-- ☁ AWS（資格学習・運用知識）
-- 🗃 SQL（SQLite・H2を中心としたデータ操作）
+## 📘 学習
+1年間の専門学校での学習を通じて、以下の技術に取り組んできました。
+🐍 Python / Django（基礎構文・GUI・Webアプリ開発）  
+☕ Java（基礎構文・クラス設計）  
+🌐 JavaScript（基礎構文・ブラウザアプリ制作）  
+🐧 Linux（CLI操作）  
+☁ AWS（EC2を用いたサーバー構築、構成図からのネットワーク設計、SageMakerでのAI活用）
+🗃 SQL（SQLite・H2を中心としたデータ操作）
+### 🧾 取得資格
+- 基本情報技術者試験（FE）
+- AWS Certified Cloud Practitioner（CLF）
