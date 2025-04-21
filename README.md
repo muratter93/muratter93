@@ -23,3 +23,12 @@
 🔗 https://github.com/muratter93/city_chase  
 > 迷路・分岐・UIをJavaScriptで実装。GitHub Pagesでもプレイ可能。
 > 🚀 [デモはこちら](https://muratter93.github.io/city_chase/)  
+
+
+### 学習
+- 🐍 Python / Django（基礎構文・GUI・Webアプリ開発）
+- ☕ Java（基礎構文・クラス設計）
+- 🌐 JavaScript（基礎構文・ブラウザアプリ制作）
+- 🐧 Linux（CLI操作）
+- ☁ AWS（資格学習・運用知識）
+- 🗃 SQL（SQLite・H2を中心としたデータ操作）
