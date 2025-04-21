@@ -21,7 +21,7 @@
 
 ### 🚓 [選択式型アドベンチャーゲーム](https://github.com/muratter93/city_chase)
 🔗 https://github.com/muratter93/city_chase  
-> 迷路・分岐・UIをJavaScriptで実装。GitHub Pagesでもプレイ可能。
+> 迷路・分岐・UIをJavaScriptで実装。
 > 🚀 [デモはこちら](https://muratter93.github.io/city_chase/)  
 
 
