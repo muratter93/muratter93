@@ -27,6 +27,7 @@
 
 ## 📘 学習
 1年間の専門学校での学習を通じて、以下の技術に取り組んできました。  
+
 🐍 Python / Django（基礎構文・GUI・Webアプリ開発）  
 ☕ Java（基礎構文・クラス設計）  
 🌐 JavaScript（基礎構文・ブラウザアプリ制作）  
@@ -34,6 +35,11 @@
 ☁ AWS（EC2を用いたサーバー構築、構成図からのネットワーク設計、SageMakerでのAI活用）  
 🗃 SQL（SQLite・H2を中心としたデータ操作）
 
-### 🧾 取得資格
-- 基本情報技術者試験（FE）
-- AWS Certified Cloud Practitioner（CLF）
+### 🧾 取得済み資格
+- ✅ 基本情報技術者試験（FE）
+- ✅ AWS Certified Cloud Practitioner（CLF）
+
+### 🎯 取得目標資格（2025年3月までに目標）
+- 📌 AWS Certified Solutions Architect - Associate（SAA）
+- 📌 LPIC-1（Linux Professional Institute Certification）
+- 📌 CCNA（Cisco Certified Network Associate）
