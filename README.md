@@ -39,7 +39,7 @@
 - ✅ 基本情報技術者試験（FE）
 - ✅ AWS Certified Cloud Practitioner（CLF）
 
-### 🎯 取得目標資格（2025年3月までに目標）
+### 🎯 取得目標資格（2025年度目標）
 - 📌 AWS Certified Solutions Architect - Associate（SAA）
 - 📌 LPIC-1（Linux Professional Institute Certification）
 - 📌 CCNA（Cisco Certified Network Associate）
