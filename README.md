@@ -1,3 +1,10 @@
+# 💻 muratter93 のポートフォリオ
+
+元・音響エンジニア。  
+現在はITインフラエンジニアを目指して、専門学校でIT・ネットワーク・プログラミングの学習に取り組んでいます。
+
+
+
 ## 🌟 主な制作物
 
 ### 🧠 [日本史・世界史年代比較GUIアプリ](https://github.com/muratter93/history_comparison_tkinter)
